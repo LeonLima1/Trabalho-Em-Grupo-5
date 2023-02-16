@@ -1,0 +1,102 @@
+/* Estilos globais */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #131720;
+  font-family: sans-serif;
+  color: rgb(0, 0, 0);
+}
+
+/* Estilos para o contêiner principal */
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Estilos para o título principal */
+h1 {
+  color: white;
+  font-size: 3em;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* Estilos para os cartões */
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card {
+  width: calc(25% - 20px);
+  margin-bottom: 40px;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilos para as imagens dos cartões */
+.card-img {
+  height: 250px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  overflow: hidden;
+}
+
+.card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Estilos para as informações dos cartões */
+.card-info {
+  padding: 20px;
+}
+.card-info {
+  padding: 20px;
+}
+
+.card-info h2 {
+  font-size: 1.5em;
+  margin: 0;
+}
+
+.card-info p {
+  font-size: 1em;
+  margin: 0;
+}
+
+.navbar {
+  height: 100vh;
+  width: 80px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #333;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.navbar a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #111;
+}
