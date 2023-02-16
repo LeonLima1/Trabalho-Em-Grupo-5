@@ -1,6 +1,6 @@
 # Quinto Projeto em squad - Site com banco de dados 
 
-O objetivo desse projeto foi criar o back-end para um web site que no nosso caso foi um site de filmes! Entõa implementamos para que a pessoa podesse fazer um comentario sobre o filme escolhido! Foi necessário a criação de uma api para interagir com esses dados que serão consumidos. Nosso esquad usou em um dos sites o mongodb como banco e no outro site usamos o sqlite!
+O objetivo desse projeto foi criar o back-end para um web site que no nosso caso foi um site de filmes! Então implementamos para que a pessoa pudesse fazer um comentario sobre o filme escolhido! Foi necessário a criação de uma api para interagir com esses dados que serão consumidos. Nosso esquad usou em um dos sites o mongodb como banco e no outro site usamos o sqlite!
 
 
 # Acessar as pastas dos projetos!
