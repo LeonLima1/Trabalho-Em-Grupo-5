@@ -25,6 +25,16 @@ https://streaming-time.onrender.com/sugestao
 
 https://maisumdefilme-a4hs.vercel.app/index.html
 
+# Integrantes do squad!
+
+https://github.com/IgorCostaRodrigues
+
+https://github.com/LeonLima1
+
+https://github.com/Anna293
+
+https://github.com/Jarianesantos
+
 # Dependências Utilizadas 
 <h3>Express;
 <h3>Nodemon;
